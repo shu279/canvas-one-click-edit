@@ -1,0 +1,9 @@
+{
+  "id": "canvas-one-click-edit",
+  "name": "Canvas One Click Edit",
+  "version": "0.6.0",
+  "minAppVersion": "1.8.0",
+  "description": "One-click editing for Canvas cards, with horizontal canvas panning and native zoom over selected cards while keeping vertical card scrolling.",
+  "author": "Shu",
+  "isDesktopOnly": true
+}
